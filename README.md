@@ -1,7 +1,9 @@
-### Hi there 👋
+### randrei12's github repository
 
-<!--
-**randrei12/randrei12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, This profile has been visited <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/randrei12/count.svg" />
+</p> times
 
 Here are some ideas to get you started:
 
