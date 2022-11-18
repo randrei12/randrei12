@@ -1,4 +1,4 @@
-### randrei12's github repository
+### randrei12
 
 <p align="center"> 
   Currently, This profile has been visited<br><br>
